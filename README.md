@@ -1,3 +1,4 @@
+//Project 1: 0x00-shell_basics
 Task 0. Where am I?
 Task 1. What’s in there?
 Task 2. There is no place like home
@@ -16,3 +17,5 @@ Task 14. Copy HTML files
 Task 16. Clean Emacs
 Task 17. Tree
 Task 18. Life is a series of commas, not periods
+
+//Project 2 : 0x01. Shell, permissions
