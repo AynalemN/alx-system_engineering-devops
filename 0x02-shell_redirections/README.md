@@ -19,3 +19,4 @@
 18. Letters only please - A script to display all lines of the file /etc/ssh/sshd_config starting with a letter."
 19. A to Z - A script to replace all characters A and c from input to Z and e respectively.
 20. Without C, you would live in hiago- a script that removes all letters c and C from input
+21. esreveR - a script that reverse its input.
