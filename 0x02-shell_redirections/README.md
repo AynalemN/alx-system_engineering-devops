@@ -4,3 +4,4 @@
 3. What about 2? -Display the content of /etc/passwd and /etc/hosts
 4. Last lines of a file - a script to display the last 10 lines of /etc/passwd
 5. I'd prefer the first ones actually - Displays the first 10 lines of /etc/passwd
+Line #2 - a script that sisplays the third line of the file
