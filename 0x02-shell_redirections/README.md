@@ -20,3 +20,4 @@
 19. A to Z - A script to replace all characters A and c from input to Z and e respectively.
 20. Without C, you would live in hiago- a script that removes all letters c and C from input
 21. esreveR - a script that reverse its input.
+22. DJ Cut Killer - a script that displays all users and their home directories, sorted by users. Based on the the /etc/passwd file
