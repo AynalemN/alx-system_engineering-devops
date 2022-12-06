@@ -7,3 +7,5 @@
 6. Local Variable - a script  that creates a new local variable. Name:BEST and Value:School.
 7. Global vaiable - a script that creates a new global variables.
 8. Every addition to true knowledge is an addition to human power - a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+9. Divide and rule -Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+	. POWER and DIVIDE are environment variables
