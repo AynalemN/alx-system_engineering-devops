@@ -11,3 +11,4 @@
 	. POWER and DIVIDE are environment variables
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath -a script that displays the result of BREATH to the power LOVE. BREATH and LOVE are environment variables.
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't -a script that converts a number from base 2 to base 10.he number in base 2 is stored in the environment variable BINARY.
+12. Combination - a script that prints all possible combinations of two letters, except oo. 
