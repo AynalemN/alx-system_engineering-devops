@@ -5,3 +5,4 @@
 4. Global variables - a script that lists environment variables.
 5. Local variables - a script that lists all local variables and environment variables, and functions.
 6. Local Variable - a script  that creates a new local variable. Name:BEST and Value:School.
+7. Global vaiable - a script that creates a new global variables.
