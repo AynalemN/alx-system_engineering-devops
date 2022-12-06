@@ -13,3 +13,4 @@
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't -a script that converts a number from base 2 to base 10.he number in base 2 is stored in the environment variable BINARY.
 12. Combination - a script that prints all possible combinations of two letters, except oo.
 13. Floats-a script that prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
+14. Decimal to Hexadecimal- Write a script that converts a number from base 10 to base 16. 
